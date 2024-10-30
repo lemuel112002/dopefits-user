@@ -1,1 +1,1 @@
-# dopefits-user
+# DopeFits-User
